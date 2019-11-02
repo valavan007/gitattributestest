@@ -1,3 +1,0 @@
-project="Prod-project"
-network="Prod-Project"
-sunet="Prod-subnet"
