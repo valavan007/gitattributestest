@@ -1,3 +1,5 @@
 project="dev-project"
 network="dev-Project"
 sunet="dev-subnet"
+vpc="Dev-vpc"
+gclb="LB"
